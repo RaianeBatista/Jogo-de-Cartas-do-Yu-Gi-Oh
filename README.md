@@ -31,7 +31,7 @@ js-yugioh-assets/ ├── src/ │ ├── assets/ │ │ ├── audios/
 
 ### Clone o repositório:
    ```bash
-   git clone https://github.com/RaianeBatista/js-yugioh-assets.git.
+   git clone https://github.com/RaianeBatista/Jogo-de-Cartas-do-Yu-Gi-Oh.git
 ````
 ## Contribuição
 
