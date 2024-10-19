@@ -1,9 +1,10 @@
 # Yu-Gi-Oh Jo-Ken-Po Edition
 ## Desafio DIO Criando um Jogo de Cartas do Yu-Gi-Oh!
-Desenvolvido como parte de um desafio na plataforma de ensino [DIO](https://www.dio.me).
 
+![Captura de tela 2024-10-18 224105](https://github.com/user-attachments/assets/cd1c0c9f-fa22-4d71-bc9a-e1a24e4af04b)
 
-Este é um jogo de cartas baseado no universo Yu-Gi-Oh, implementado em JavaScript. O jogo segue as regras do Jo-Ken-Po (Pedra, Papel, Tesoura) e permite que os jogadores joguem contra o computador.
+### Desenvolvido como parte de um desafio na plataforma de ensino [DIO](https://www.dio.me).
+### Este é um jogo de cartas baseado no universo Yu-Gi-Oh, implementado em JavaScript. O jogo segue as regras do Jo-Ken-Po (Pedra, Papel, Tesoura) e permite que os jogadores joguem contra o computador.
 
 ## Tecnologias Utilizadas
 
