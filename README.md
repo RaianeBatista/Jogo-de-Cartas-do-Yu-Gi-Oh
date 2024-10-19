@@ -41,3 +41,5 @@ js-yugioh-assets/ ├── src/ │ ├── assets/ │ │ ├── audios/
 * Commit suas mudanças (git commit -am 'Adiciona nova funcionalidade')
 * Faça um push para a branch (git push origin feature/nova-funcionalidade)
 * Abra um Pull Request
+## Deploy
+[Jogo de cartas](https://raianebatista.github.io/Jogo-de-Cartas-do-Yu-Gi-Oh/)
